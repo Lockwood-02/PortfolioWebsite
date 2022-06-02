@@ -35,7 +35,7 @@ function App() {
             onClick={handleThemeSwitch}
             className="fixed z-10 right-2 top-2 bg-indigo-500 text-lg p-1 rounded-md"
             >
-                {theme === 'dark' ? 'https://img.icons8.com/pastel-glyph/344/moon-satellite.png' : 'https://img.icons8.com/ios/344/sun--v1.png'}
+                {theme === 'dark' ? '🌑' : '☀️'}
             </button>
             <div className="font-inter bg:white dark:bg-slate-900">
                 <div className="max-w-5xl mx-auto w-11/12">
