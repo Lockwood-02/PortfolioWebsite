@@ -39,13 +39,11 @@ function App() {
             </button>
             <div className="font-inter bg:white dark:bg-slate-900">
                 <div className="max-w-5xl mx-auto w-11/12">
-                    <Text>
                         <HeroSection></HeroSection>
                         <Services></Services>
                         <Works></Works>
                         <About></About>
                         <Footer></Footer>
-                    </Text>
                 </div>
             </div>
         </>
