@@ -3,7 +3,7 @@ export default [
         title: 'ToDo List',
         imgUrl: 'https://repository-images.githubusercontent.com/499035921/4f0e0bf4-8dac-4a13-9a7a-76bd09e27f53',
         tech:['HTML', 'JavaScript'],
-        workUrl: 'https://github.com/Lockwood-02/ToDoApp'
+        workUrl: 'http://todo-app-website.s3-website.us-east-2.amazonaws.com/'
     },
 
     {
