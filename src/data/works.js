@@ -1,7 +1,7 @@
 export default [
     {
         title: 'ToDo List',
-        imgUrl: 'https://repository-images.githubusercontent.com/499035921/4f0e0bf4-8dac-4a13-9a7a-76bd09e27f53',
+        imgUrl: 'https://repository-images.githubusercontent.com/499035921/1509eac1-d536-4f85-83bd-eab25226d53d',
         tech:['HTML', 'JavaScript'],
         workUrl: 'http://todo-app-website.s3-website.us-east-2.amazonaws.com/'
     },
