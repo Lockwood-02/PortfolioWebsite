@@ -1,7 +1,7 @@
 export default [
     {
         title: 'ToDo List',
-        imgUrl: 'https://repository-images.githubusercontent.com/499035921/8d4a8c83-d963-45e1-be58-c13d0e98c83a',
+        imgUrl: 'https://repository-images.githubusercontent.com/499035921/4f0e0bf4-8dac-4a13-9a7a-76bd09e27f53',
         tech:['HTML', 'JavaScript'],
         workUrl: 'https://github.com/Lockwood-02/ToDoApp'
     },
