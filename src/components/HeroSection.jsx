@@ -9,7 +9,7 @@ function HeroSection() {
             <p className='text-md md:text-xl max-w-md
               mb-3 text-gray-600 dark:text-gray-300'>
               “Intelligence is not a privilege, it's a gift. 
-              And you use it for the good of mankind.1”</p>
+              And you use it for the good of mankind.”</p>
               <p className='text-sm md:text-md max-w-md mb-5 
               text-gray-600 dark:text-gray-300 font-roboto-italic'>— Dr. Otto Octavius</p>
             <a href="#works" className='inline-block px-8 py-3 border-transparent
