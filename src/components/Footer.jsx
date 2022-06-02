@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import ServiceItem from './ServiceItem';
+
 
 function Footer() {
   return (
