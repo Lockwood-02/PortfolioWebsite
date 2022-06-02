@@ -3,7 +3,7 @@ import React from 'react'
 function WorkItem({imgUrl, title, description, tech, workUrl}) {
   return (
     <a href={workUrl} target='_blank' rel='noreferrer'
-    className='bg-slate-300 dark:bg-slate-800 rounded-lg overflow-hidden'>
+    className='bg-slate-300 dark:bg-slate-800 rounded-lg overflow-hidden border-solid'>
         <img src={imgUrl} alt={title} 
         className="w-full h-36 md:h-48 object-cover"/>
         <div className='text-gray-600 dark:text-gray-300 p-5 w-full'>
