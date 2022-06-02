@@ -1,6 +1,6 @@
 import React from 'react'
 
-function WorkItem({imgUrl, title, tech, workUrl}) {
+function WorkItem({imgUrl, title, description, tech, workUrl}) {
   return (
     <a href={workUrl} target='_blank' rel='noreferrer'
     className='bg-slate-300 dark:bg-slate-800 rounded-lg overflow-hidden'>
