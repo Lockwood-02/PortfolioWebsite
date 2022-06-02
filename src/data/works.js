@@ -2,7 +2,7 @@ export default [
     {
         title: 'ToDo List',
         imgUrl: 'https://repository-images.githubusercontent.com/499035921/1509eac1-d536-4f85-83bd-eab25226d53d',
-        description: 'test text',
+        description: 'One of my first projects I completed. A simple ToDo App that was a starting point into my career.',
         tech:['HTML', 'JavaScript'],
         workUrl: 'http://todo-app-website.s3-website.us-east-2.amazonaws.com/'
     },
