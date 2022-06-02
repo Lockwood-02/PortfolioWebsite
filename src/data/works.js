@@ -12,7 +12,7 @@ export default [
         imgUrl: 'https://repository-images.githubusercontent.com/499298250/d2d3058f-0fc3-4c67-974f-01ee6de2fed7',
         description: 'A simple website outline that can be modified to fit any needs from a consumer.',
         tech:['HTML', 'CSS'],
-        workUrl: 'https://github.com/Lockwood-02'
+        workUrl: 'http://isaac-lockwood-website.s3-website-us-east-1.amazonaws.com/'
     },
 
     {
