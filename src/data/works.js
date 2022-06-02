@@ -8,9 +8,9 @@ export default [
     },
 
     {
-        title: 'Work In Progress',
-        imgUrl: 'https://repository-images.githubusercontent.com/499037818/3f0faea0-5081-4e96-a365-6a8d22879da1',
-        description: 'test text',
+        title: 'Business Site',
+        imgUrl: 'https://repository-images.githubusercontent.com/499298250/d2d3058f-0fc3-4c67-974f-01ee6de2fed7',
+        description: 'A simple website outline that can be modified to fit any needs from a consumer.',
         tech:['HTML', 'CSS'],
         workUrl: 'https://github.com/Lockwood-02'
     },
