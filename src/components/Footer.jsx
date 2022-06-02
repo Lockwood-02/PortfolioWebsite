@@ -10,6 +10,9 @@ function Footer() {
         <a href="mailto:isaaclockwood618@gmail.com"
             className=' text-sm md:text-md hover:text-indigo-500'
         >isaaclockwood618@gmail.com</a>
+        <ServiceItem
+            icon={service.icon}>
+        </ServiceItem>
         <p className='text-xs mt-2 text-gray-500'>
             © Isaac Lockwood {new Date().getFullYear()}. All rights reserved.
         </p>
