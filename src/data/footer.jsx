@@ -3,7 +3,7 @@ import { TbBrandGithub } from 'react-icons/tb'
 
 export default [
   {
-      icon: <TbBrandLinkedin className='w-full h-full'></TbBrandLinkedin>
+      icon: <TbBrandLinkedin className='w-full h-full'></TbBrandLinkedin>,
       footerUrl: 'https://www.linkedin.com/in/isaac-lockwood/'
   },
   
