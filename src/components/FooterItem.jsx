@@ -8,4 +8,4 @@ function FooterItem({icon}) {
   )
 }
 
-export default ServiceItem
+export default FooterItem
