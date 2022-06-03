@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterItem from './FooterItem';
-import footer from './footer';
+import footer from '../data/footer';
 
 
 function Footer() {
