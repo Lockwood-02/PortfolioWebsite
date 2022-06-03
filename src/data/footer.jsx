@@ -8,6 +8,7 @@ export default [
   },
   
   {
-      icon: <TbBrandGithub className='w-full h-full'></TbBrandGithub>
+      icon: <TbBrandGithub className='w-full h-full'></TbBrandGithub>,
+      footerUrl: 'https://github.com/Lockwood-02'
   },
 ]
