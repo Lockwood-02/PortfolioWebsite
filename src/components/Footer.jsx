@@ -10,7 +10,7 @@ function Footer() {
         <a href="#hero" className='block text-xl md:text-2xl font-semibold'>Isaac Lockwood</a>
         <a href="mailto:isaaclockwood618@gmail.com" className=' text-sm md:text-md hover:text-indigo-500'
         >isaaclockwood618@gmail.com</a>
-        <div className='flex justify-center mt-2 slate-300 gap-3 hover:rounded-md'>
+        <div className='flex justify-center mt-2 slate-300 gap-3 hover:slate-500'>
           {footer.map(footers => (
             <FooterItem
             key={footers.icon}
