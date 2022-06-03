@@ -15,6 +15,7 @@ function Footer() {
             <FooterItem
             key={footers.icon}
             icon={footers.icon}
+            footerUrl={footers.footerUrl}
             ></FooterItem>
           ))}
         </div>
