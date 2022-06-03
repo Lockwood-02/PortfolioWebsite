@@ -15,6 +15,7 @@ function Footer() {
           key={footer.icon}
           icon={footer.icon}
         ></FooterItem>
+        )
         <p className='text-xs mt-2 text-gray-500'>
             © Isaac Lockwood {new Date().getFullYear()}. All rights reserved.
         </p>
