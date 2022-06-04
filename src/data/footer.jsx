@@ -20,7 +20,7 @@ export default [
   },
   
   {
-      icon: <TbTbBrandTwitter className='w-full h-full'></TbBrandTbBrandTwitter>,
+      icon: <TbBrandTwitter className='w-full h-full'></TbBrandTwitter>,
       footerUrl: 'https://twitter.com/isaaclockwooood'
   },
 ]
