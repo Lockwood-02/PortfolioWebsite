@@ -18,7 +18,7 @@ function About() {
     
             <br />
     
-             <a target="_blank" href="https://i.postimg.cc/6psTfz6Q/Isaac-Lockwood-Resume-1.png"
+             <a target="_blank" href="https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png"
                 className='text-md md:text-lg 
                 text-gray-700 dark:text-gray-300 underline 
                 hover:text-indigo-500 dark:hover:text-indigo-500'>Download Resume</a>
