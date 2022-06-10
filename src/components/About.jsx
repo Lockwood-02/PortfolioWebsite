@@ -15,8 +15,11 @@ function About() {
                 all with varying designs and ideas but I plan on becoming more of a 
                 full stack engineer where I can truly show off my talents.
             </p>
+    
+            <br />
+    
              <a target="_blank" href="https://i.postimg.cc/6psTfz6Q/Isaac-Lockwood-Resume-1.png"
-                className='block mt-3 text-md md:text-lg 
+                className='text-md md:text-lg 
                 text-gray-700 dark:text-gray-300 underline 
                 hover:text-indigo-500 dark:hover:text-indigo-500'>Download Resume</a>
         </div>
