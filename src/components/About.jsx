@@ -15,11 +15,10 @@ function About() {
                 all with varying designs and ideas but I plan on becoming more of a 
                 full stack engineer where I can truly show off my talents.
             </p>
-            <a href="mailto:isaaclockwood618@gmail.com"
+             <a target="_blank" href="https://i.postimg.cc/6psTfz6Q/Isaac-Lockwood-Resume-1.png"
                 className='block mt-3 text-md md:text-lg 
                 text-gray-700 dark:text-gray-300 underline 
-                hover:text-indigo-500 dark:hover:text-indigo-500'
-            >isaaclockwood618@gmail.com</a>
+                hover:text-indigo-500 dark:hover:text-indigo-500'>Download Resume</a>
         </div>
         
         <img src={"http://isaac-lockwood-demo.s3-website-us-east-1.amazonaws.com/images/me2.jpg"} alt="Isaac Lockwood" 
