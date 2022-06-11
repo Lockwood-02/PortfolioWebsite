@@ -22,7 +22,7 @@ function HeroSection() {
             hover:bg-indigo-700 md:text-md'>See Works</a>
         </div>
 
-          <img className='h-4/12 w-full md:w-4/12 rounded-lg object-cover' 
+          <img className='h-4/12 w-full md:w-4/12 rounded-lg object-cover outline outline-offset-0 outline-indigo-500' 
           src='https://i.postimg.cc/Pxqwbmv6/itsMe.jpg' alt='Isaac Lockwood' />
     </div>
   )
