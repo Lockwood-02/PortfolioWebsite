@@ -2,8 +2,8 @@ import React from 'react'
 
 function HeroSection() {
   return (
-    <div id='hero' className='flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-20 w-full'>
-        <div className="text-left col-span-4">
+    <div id='hero' className='flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-20 w-full text-center md:text-left'>
+        <div>
             <h1 className='text-2xl md:text-4xl mb-1 md:mb-3 
             text-indigo-600 font-semibold dark:text-indigo-500 sd:font-sans'>Hi, My Name is Isaac</h1>
 
@@ -22,7 +22,7 @@ function HeroSection() {
             hover:bg-indigo-700 md:text-md'>See Works</a>
         </div>
 
-          <img className='h-6/12 w-full md:w-4/12 rounded-lg object-cover' 
+          <img className='h-4/12 w-full md:w-4/12 rounded-lg object-cover' 
           src='https://i.postimg.cc/Pxqwbmv6/itsMe.jpg' alt='Isaac Lockwood' />
     </div>
   )
