@@ -17,9 +17,9 @@ function HeroSection() {
               <p className='text-sm max-w-md mb-5 
               text-gray-600 dark:text-gray-300 italic'>— Dr. Otto Octavius</p>
 
-            <a href="#works" className='inline-block px-8 py-3 border-transparent
+            <a href="https://i.postimg.cc/1RrLHrGK/Isaac-Lockwood-Resume-1.png" target='_blank' className='inline-block px-8 py-3 border-transparent
             text-base font-medium rounded-md text-white bg-indigo-600 
-            hover:bg-indigo-700 md:text-md'>See Works</a>
+            hover:bg-indigo-700 md:text-md'>See Resume</a>
         </div>
 
           <img className='h-4/12 w-full md:w-4/12 rounded-lg object-cover outline outline-offset-0 outline-indigo-500' 
