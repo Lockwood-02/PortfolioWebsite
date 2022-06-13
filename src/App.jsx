@@ -37,8 +37,15 @@ function App() {
             >
                 {theme === 'dark' ? '🌑' : '☀️'}
             </button>
+
             <div className="font-inter bg:white dark:bg-slate-900">
                 <div className="max-w-5xl mx-auto w-11/12">
+
+                <div>
+                    <img src={"https://i.postimg.cc/x8J5Qvfn/icon-Copy.png"} 
+                    className='block m-auto h-32 w-32 p-3'/>
+                </div>
+
                         <HeroSection></HeroSection>
                         <Services></Services>
                         <Works></Works>
